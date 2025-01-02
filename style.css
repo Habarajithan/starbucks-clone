@@ -1,0 +1,513 @@
+.bg-container {
+    background-color: white;
+}
+
+.ruling {
+    height: 400px;
+}
+
+.nav-container {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .1), 0 2px 2px rgba(0, 0, 0, .06), 0 0 2px rgba(0, 0, 0, .07);
+}
+
+a {
+    cursor: pointer !important;
+}
+
+.logo {
+    width: 53px;
+}
+
+.text-noUnderline {
+    text-decoration: none !important;
+}
+
+.head {
+    color: #000000DE;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.mar {
+    margin-top: 8px;
+    margin-right: 20px;
+    color: #000000DE;
+}
+
+.sign {
+    border-radius: 20px;
+    border-color: #000000DE;
+    border-style: solid;
+    background-color: transparent;
+    border-width: 1px;
+    height: 37px;
+    margin-right: 16px;
+    padding: 7px 16px;
+    font-weight: 600;
+}
+
+.join {
+    border-radius: 20px;
+    background-color: #000000DE;
+    color: white;
+    height: 37px;
+    margin-right: 16px;
+    padding: 7px 16px;
+
+}
+
+.red-container {
+    background-color: #d50032;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    padding: 0px;
+}
+
+.red-img {
+    width: 50%;
+}
+
+.red-head {
+    font-size: 50px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.red-para {
+    font-size: 24px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+}
+
+.red-button {
+    border-radius: 20px;
+    border-color: white;
+    border-style: solid;
+    background-color: transparent;
+    color: white;
+    border-width: 1px;
+    width: 100px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.red-button2 {
+    border-radius: 20px;
+    border-color: white;
+    border-style: solid;
+    background-color: transparent;
+    color: white;
+    border-width: 1px;
+    width: 120px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.green-container {
+    background-color: rgb(11, 122, 85);
+    margin-bottom: 30px;
+    padding: 0px;
+}
+
+.gr-container {
+    background-color: rgb(6, 206, 141);
+    margin-bottom: 30px;
+    padding: 0px;
+}
+
+.green-image {
+    width: 50%;
+}
+
+.green-button {
+    border-radius: 20px;
+    border-color: #1e3932;
+    border-style: solid;
+    background-color: transparent;
+    color: #1e3932;
+    border-width: 1px;
+    width: 110px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.x-container {
+    background-color: rgb(6, 206, 141);
+    margin-bottom: 30px;
+    padding: 0px;
+}
+
+.x-img {
+    width: 47%;
+}
+
+.x-button {
+    border-radius: 20px;
+    border-color: white;
+    border-style: solid;
+    background-color: transparent;
+    color: white;
+    border-width: 1px;
+    font-size: 15px;
+    width: 120px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.white-container {
+    background-color: #f2f0eb;
+    margin-bottom: 30px;
+    padding: 0px;
+}
+
+.white-button {
+    border-radius: 20px;
+    border-color: #006241;
+    border-style: solid;
+    background-color: transparent;
+    border-width: 1px;
+    color: #006241;
+    width: 110px;
+    font-size: 16px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.feed-container {
+    background-color: #8e0031;
+    margin-bottom: 30px;
+    padding: 0px;
+}
+
+.green-image2 {
+    width: 50%;
+}
+
+.star-rules {
+    font-size: 14px;
+    color: black;
+    margin-bottom: 60px;
+    font-weight: 400;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.about-container {
+    box-shadow: 0 -1px 3px rgba(0, 0, 0, .1), 0 -2px 2px rgba(0, 0, 0, .06), 0 0 2px rgba(0, 0, 0, .07);
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.a-head {
+    color: #000000DE;
+    font-size: 19px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-bottom: 25px;
+}
+
+.list-a {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.sb-rule {
+    border: 0;
+    margin: 0;
+}
+
+.logo-container {
+    padding: 5px;
+}
+
+.logo {
+    margin-right: 10px;
+    font-size: 49px;
+}
+
+.logo2 {
+    margin-top: 0px;
+    margin-right: 10px;
+    border-radius: 100px;
+    background-color: #000000DE;
+    padding: 15px;
+    height: 50px;
+    width: 50px;
+    color: white;
+}
+
+.logo {
+    width: 53px;
+}
+
+body {
+    font-family: "Open Sans", Sans-Serif;
+}
+
+.nav-link {
+    font-weight: 600;
+    color: black;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.fa-bars {
+    font-size: 2rem;
+}
+
+.fa-xmark {
+    font-size: 2rem;
+}
+
+.bg-container {
+    background-color: white;
+}
+
+.nav-container {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .1), 0 2px 2px rgba(0, 0, 0, .06), 0 0 2px rgba(0, 0, 0, .07);
+}
+
+a {
+    cursor: pointer !important;
+}
+
+.logo {
+    width: 53px;
+}
+
+.text-noUnderline {
+    text-decoration: none !important;
+}
+
+.head-small {
+    color: #000000DE;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-small {
+    list-style-type: none;
+}
+
+.mar-small {
+    margin-top: 8px;
+    margin-right: 20px;
+    color: #000000DE;
+}
+
+.sign-small {
+    border-radius: 20px;
+    border-color: #000000DE;
+    border-style: solid;
+    background-color: transparent;
+    border-width: 1px;
+    width: 100px;
+}
+
+.join-small {
+    border-radius: 20px;
+    background-color: #000000DE;
+    color: white;
+    width: 100px;
+}
+
+.red-container-small {
+    background-color: #d50032;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    padding: 0px;
+}
+
+.red-img-small {
+    width: 100%;
+}
+
+.red-head-small {
+    font-size: 50px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.red-para-small {
+    font-size: 24px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+}
+
+.red-button-small {
+    border-radius: 20px;
+    border-color: white;
+    border-style: solid;
+    background-color: transparent;
+    color: white;
+    border-width: 1px;
+    width: 100px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.green-container-small {
+    background-color: rgb(11, 122, 85);
+    margin-bottom: 30px;
+    padding: 0px;
+}
+
+.gr-container-small {
+    background-color: rgb(6, 206, 141);
+    margin-bottom: 30px;
+    padding: 0px;
+}
+
+.green-image-small {
+    width: 100%;
+}
+
+.green-button-small {
+    border-radius: 20px;
+    border-color: white;
+    border-style: solid;
+    background-color: transparent;
+    color: white;
+    border-width: 1px;
+    width: 110px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.gr-button-small {
+    border-radius: 20px;
+    border-color: #1e3932;
+    border-style: solid;
+    background-color: transparent;
+    color: #1e3932;
+    border-width: 1px;
+    width: 110px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.x-container-small {
+    background-color: rgb(6, 206, 141);
+    margin-bottom: 30px;
+    padding: 0px;
+    height: auto;
+}
+
+.x-img-small {
+    width: 100%;
+}
+
+.x-button-small {
+    border-radius: 20px;
+    border-color: #1e3932;
+    border-style: solid;
+    background-color: transparent;
+    color: #1e3932;
+    border-width: 1px;
+    font-size: 15px;
+    width: 120px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.white-container-small {
+    background-color: #f2f0eb;
+    margin-bottom: 30px;
+    padding: 0px;
+}
+
+.white-button-small {
+    border-radius: 20px;
+    border-color: #006241;
+    border-style: solid;
+    background-color: transparent;
+    border-width: 1px;
+    color: #006241;
+    width: 110px;
+    font-size: 16px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.feed-container-small {
+    background-color: #8e0031;
+    margin-bottom: 30px;
+    padding: 0px;
+}
+
+.green-image2-small {
+    width: 100%;
+}
+
+.star-rules-small {
+    font-size: 14px;
+    color: black;
+    margin-bottom: 60px;
+    font-weight: 400;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.about-container-small {
+    box-shadow: 0 -1px 3px rgba(0, 0, 0, .1), 0 -2px 2px rgba(0, 0, 0, .06), 0 0 2px rgba(0, 0, 0, .07);
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.a-head-small {
+    color: #000000DE;
+    font-size: 19px;
+    font-family: SoDoSans, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-bottom: 25px;
+}
+
+.list-a-small {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.sb-rule {
+    border: 0;
+    margin: 0;
+}
+
+.logo-container-small {
+    padding: 5px;
+}
+
+.logo-small {
+    margin-right: 10px;
+    font-size: 49px;
+}
+
+.logo2-small {
+    margin-right: 10px;
+    margin-top: 0px;
+    border-radius: 100px;
+    background-color: #000000DE;
+    padding: 15px;
+    height: 50px;
+    width: 50px;
+    color: white;
+}
+
+.pad-small {
+    padding: 32px 16px;
+    height: 450px;
+}
+
+.pad2-small {
+    padding: 32px 16px;
+    height: 500px;
+}
